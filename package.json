@@ -1,0 +1,11 @@
+{
+  "name": "nodejs_blockchain01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/leandroasilva/nodejs_blockchain.git",
+  "author": "halk_lenson@hotmail.com <leandroasilva>",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
